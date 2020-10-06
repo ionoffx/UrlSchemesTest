@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func buttonclick(_ sender: Any) {
-        openApp(name: "another0app0schemes")
+        openApp(name: "another_app_schemes")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
